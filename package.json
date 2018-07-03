@@ -1,0 +1,15 @@
+{
+  "name": "ethicallyopen",
+  "version": "1.0.0",
+  "description": "Website of resources for people in ethically-open relationships",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": "https://github.com/benjaffe/ethicallyopen",
+  "author": "Ben Jaffe",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "serve": "^9.1.1"
+  }
+}
